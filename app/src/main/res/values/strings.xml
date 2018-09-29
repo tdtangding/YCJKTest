@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YCJKTest</string>
+    <string name="time">测试已进行时间</string>
+    <string name="connect">连接仪器</string>
+    <string name="disconnect">断开连接</string>
+    <string name="edit">车牌号</string>
+    <string name="vin">车辆识别代码VIN</string>
+    <string name="znl">总能量(kWh)</string>
+    <string name="zcdy">总成电压(V)</string>
+    <string name="soc">SOC变化量(%)</string>
+    <string name="rlpc">允许容量偏差(%)</string>
+    <string name="xslc">累计行驶里程(km)</string>
+    <string name="scqy">系统生成企业</string>
+    <string name="send">发送</string>
+    <string name="start">开始试验</string>
+    <string name="stop">停止试验</string>
+
+</resources>
